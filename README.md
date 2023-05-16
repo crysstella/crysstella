@@ -12,8 +12,8 @@
 - 🎮 *Video Games* 🎳 *Bowling's* 🍣 *Sushi* 🍗 *Chicken* 🎹 *Instrument* 🎨 *Drawing*
 
 ### 📫 How to reach me: 
-- [Email](mailto: stellar.nguyenvva@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/stelalrnguyenvvan/)
+- 📧 [Email](mailto: stellar.nguyenvva@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/stelalrnguyenvvan/)
 
 ### 💻 Languages and Tools:
 <p align="center">
