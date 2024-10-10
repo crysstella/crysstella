@@ -21,7 +21,7 @@
   - Achieved 0.9787 prediction accuracy in plant species classification
   - Optimized model performance for a dataset containing over 7.8 million specimens
   - Top 12 placement among 76 teams in the Kaggle competition
-  - 
+   
 ### [Accenture Telecommunications Disaster Inquiry Project](https://github.com/crysstella/Telecommunications-Disaster-Inquiry.git)
 *Data Science Project*
 
