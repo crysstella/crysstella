@@ -37,6 +37,6 @@
 
 ## 💻 Languages
 - Python
-- Java
 - C++
+- Java
 - Dart
