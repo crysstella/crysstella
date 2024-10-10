@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <h1> 
-     Stellar ⭐
+     Ste♊ar
   </h1>
 </div>
 
 ## Hi 👋, I would love to share about me!
 - *I'm passionate about building efficient applications related to Machine Learning and Web Development.*
-- *I love exploring new algorithms' strategies and designing websites.*
-- *I'm looking to collaborate with anyone interested.*
+- *I love exploring new algorithm strategies and designing websites.*
+- *I'm looking to collaborate with anyone who is interested.*
 - 🎮 *Video Games* 🎳 *Bowling's* 🍣 *Sushi* 🍗 *Chicken* 🎹 *Instrument* 🎨 *Drawing*
 
 ## 🚀 Projects
