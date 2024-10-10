@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> 
-     Stell⭐r 
+     Stellar ⭐
   </h1>
 </div>
 
