@@ -4,17 +4,28 @@
   </h1>
 </div>
 
-### Greetings, 💙ly human!
+## Hi 👋, I would love to share about me!
 - 👩 *I'm passionate about building efficient applications related to Machine Learning and Web Development.*
 - 🌺 *I love exploring new algorithms' strategies and designing websites.*
-- 🌱 *I'm looking to collaborate with anyone who is interested.*
+- 🌱 *I'm looking to collaborate with anyone interested.*
 - 🎮 *Video Games* 🎳 *Bowling's* 🍣 *Sushi* 🍗 *Chicken* 🎹 *Instrument* 🎨 *Drawing*
 
-### 📫 How to reach me: 
+## 🚀 Projects
+
+### [Accenture Telecommunications Disaster Inquiry Project](https://github.com/crysstella/Telecommunications-Disaster-Inquiry.git)
+*Data Science Project*
+
+- **Description**: A data-driven solution to predict the impact of natural disasters on cellular towers across the U.S.
+- **Technologies Used**: Python, scikit-learn, KMeans, DBSCAN, PCA, Pandas, Matplotlib
+- **Key Features**:
+  - Clustered U.S. cell tower data using unsupervised learning techniques
+  - Visualized disaster impact clusters to optimize disaster response planning
+  - 
+## 📫 How to reach me: 
 - 📧 [Email](mailto:stellar.nguyenvva@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stelalrnguyenvvan/)
 
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 <p align="center">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
