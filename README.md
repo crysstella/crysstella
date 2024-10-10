@@ -12,7 +12,7 @@
 
 ## 🚀 Projects
 
-### New York Botanical Garden Herbarium Classifier
+### [New York Botanical Garden Herbarium Classifier](https://github.com/crysstella/New-York-Botanical-Garden-Herbarium-Classifier.git)
 *Kaggle Competition - Top 12 out of 76 Teams*
 
 - **Description**: Developed a machine learning model to classify botanical specimens from the New York Botanical Garden's herbarium.
