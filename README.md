@@ -5,9 +5,9 @@
 </div>
 
 ## Hi 👋, I would love to share about me!
-- 👩 *I'm passionate about building efficient applications related to Machine Learning and Web Development.*
-- 🌺 *I love exploring new algorithms' strategies and designing websites.*
-- 🌱 *I'm looking to collaborate with anyone interested.*
+- *I'm passionate about building efficient applications related to Machine Learning and Web Development.*
+- *I love exploring new algorithms' strategies and designing websites.*
+- *I'm looking to collaborate with anyone interested.*
 - 🎮 *Video Games* 🎳 *Bowling's* 🍣 *Sushi* 🍗 *Chicken* 🎹 *Instrument* 🎨 *Drawing*
 
 ## 🚀 Projects
