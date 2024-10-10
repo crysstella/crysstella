@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> 
-     ⭐ Ste♊ar ⭐
+     ⭐ Stellar ⭐
   </h1>
 </div>
 
@@ -22,8 +22,7 @@
   - Optimized model performance for a dataset containing over 7.8 million specimens
   - Top 12 placement among 76 teams in the Kaggle competition
    
-### ![image](https://github.com/user-attachments/assets/2b0d6ea0-6935-4928-b5b0-5c508b65b864)
- [Accenture Telecommunications Disaster Inquiry Project](https://github.com/crysstella/Telecommunications-Disaster-Inquiry.git)
+### 🗼 [Accenture Telecommunications Disaster Inquiry Project](https://github.com/crysstella/Telecommunications-Disaster-Inquiry.git)
 *Data Science Project*
 
 - **Description**: A data-driven solution to predict the impact of natural disasters on cellular towers across the U.S.
