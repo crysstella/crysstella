@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> 
-     Ste♊ar
+     Stellar
   </h1>
 </div>
 
